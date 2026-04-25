@@ -79581,10 +79581,10 @@ L(a){var s=null
 return A.ep(s,A.KB(A.c([B.DX,B.xX,A.wD(A.c6(this.c,s,s,s,B.RO,s,s),1,s)],t.p),B.br,B.a0,B.hh),B.w,s,B.zA,s,s,s,s,B.CV,s,s,s)}}
 A.Hx.prototype={
 L(a){var s=null,r=A.Z(a).ok.a
-return A.ep(s,A.eo(A.c([A.c6("\u0647\u0644 \u0623\u0646\u062a \u0645\u0633\u062a\u0639\u062f \u0644\u062a\u0639\u0631\u0641 \u0627\u0644\u062d\u0642\u064a\u0642\u0629\u061f",s,s,s,r==null?s:r.ck(B.k),B.az,s),B.c3,B.Sv,B.bw,A.ZH(B.SC,this.c,A.an5(s,s,B.k,s,s,s,s,s,s,B.aw,s,s,B.D4,s,s,s,s,s,s,s))],t.p),B.a_,B.a0,B.ad),B.w,s,s,B.zD,s,s,s,B.mt,s,s,1/0)}}
+return A.ep(s,A.eo(A.c([A.c6("\u0647\u0644 \u0623\u0646\u062a \u0645\u0633\u062a\u0639\u062f \u0644\u062a\u0639\u0631\u0641 \u0627\u0644\u062d\u0642\u064a\u0642\u0629\u061f",s,s,s,r==null?s:r.ck(B.k),B.az,s),B.c3,B.Sv,B.bw,A.ZH(B.SD,this.c,A.an5(s,s,B.k,s,s,s,s,s,s,B.aw,s,s,B.D4,s,s,s,s,s,s,s))],t.p),B.a_,B.a0,B.ad),B.w,s,s,B.zD,s,s,s,B.mt,s,s,1/0)}}
 A.HF.prototype={
 L(a){var s=null,r=t.p
-return A.ep(s,A.eo(A.c([new A.cC(B.ms,A.KB(A.c([B.E_,B.Nc,A.wD(A.c6("\u062c\u0645\u064a\u0639 \u0627\u0644\u0627\u062c\u0627\u0628\u0627\u062a \u062a\u0628\u0642\u0649 \u0633\u0631\u064a\u0629 \u0648\u0644\u0627 \u064a\u062a\u0645 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0645\u0639 \u0623\u064a \u0637\u0631\u0641",s,s,s,B.eY,B.az,s),1,s)],r),B.br,B.hg,B.ad),s),B.bw,B.Ct,B.bw,A.atV(B.f3,A.c([B.Wc,B.Wd],r),24,48),B.Ng,A.c6("\xa9 "+A.asJ(new A.hu(Date.now(),0,!1))+" rebond. All rights reserved.",s,s,s,B.QH,s,s)],r),B.a_,B.a0,B.ad),B.w,B.d4,s,s,s,s,s,B.d9,s,s,1/0)}}
+return A.ep(s,A.eo(A.c([new A.cC(B.ms,A.KB(A.c([B.E_,B.Nc,A.wD(A.c6("\u062c\u0645\u064a\u0639 \u0627\u0644\u0627\u062c\u0627\u0628\u0627\u062a \u062a\u0628\u0642\u0649 \u0633\u0631\u064a\u0629 \u0648\u0644\u0627 \u064a\u062a\u0645 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0645\u0639 \u0623\u064a \u0637\u0631\u0641",s,s,s,B.eY,B.az,s),1,s)],r),B.br,B.hg,B.ad),s),B.bw,B.Ct,B.bw,A.atV(B.f3,A.c([B.Wc,B.Wd],r),24,48),B.Ng,A.c6("\xa9 "+A.asJ(new A.hu(Date.now(),0,!1))+" reboond. All rights reserved.",s,s,s,B.QH,s,s)],r),B.a_,B.a0,B.ad),B.w,B.d4,s,s,s,s,s,B.d9,s,s,1/0)}}
 A.BS.prototype={
 L(a){var s=A.c([this.c,B.c3],t.p),r=this.d
 B.b.T(s,new A.a9(r,new A.af8(),A.a0(r).i("a9<1,f>")))
@@ -79611,7 +79611,7 @@ s=s==null?r:s.Ed(B.bR,B.bB)
 return A.kg(A.eo(A.c([q,B.c3,A.c6(this.c+". "+this.d,r,r,r,s,B.az,r)],t.p),B.a_,B.a0,B.ad),r,180)}}
 A.J4.prototype={
 L(a){var s=null,r=A.Z(a).ok.a
-return A.ep(s,A.KB(A.c([A.c6("rebond",s,s,s,r==null?s:r.afj(B.aw,1.2),s,s)],t.p),B.a_,B.hg,B.ad),B.w,B.k,s,s,s,s,s,B.D2,s,s,s)}}
+return A.ep(s,A.KB(A.c([A.c6("reboond",s,s,s,r==null?s:r.afj(B.aw,1.2),s,s)],t.p),B.a_,B.hg,B.ad),B.w,B.k,s,s,s,s,s,B.D2,s,s,s)}}
 A.J8.prototype={
 L(a){var s=null,r=A.c6("\u0627\u062d\u0635\u0644 \u0639\u0644\u0649 \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u0623\u0648\u0644\u0649",s,s,s,A.Z(a).ok.b,s,s),q=A.arJ(s,new A.h9(4,A.ic(12),B.q),s,B.D1,s,s,s,s,!0,s,s,s,s,s,s,B.d4,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"\u0623\u062f\u062e\u0644 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a",s,s,s,s,s,s,s,s,s,!0,!0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s),p=t.p
 return A.ep(s,A.eo(A.c([r,B.c3,B.SA,B.xY,new A.fx(B.zB,A.KB(A.c([A.wD(new A.Aj(q,B.O8,B.Ni,B.Nj,!0,s),1,s),B.xX,A.ZH(B.Sw,new A.a55(),s)],p),B.a_,B.a0,B.ad),s)],p),B.a_,B.a0,B.ad),B.w,B.k,s,s,s,s,s,B.d9,s,s,1/0)}}
@@ -79745,7 +79745,7 @@ p.aw()}}},
 $S:0}
 A.SR.prototype={
 L(a){var s=null
-return A.anX(s,A.H3(A.nb(A.ao2(new A.cC(B.fK,A.eo(A.c([B.E0,B.xY,A.c6("\u062a\u0645 \u0625\u0631\u0633\u0627\u0644 \u0625\u062c\u0627\u0628\u0627\u062a\u0643 \u0628\u0646\u062c\u0627\u062d",s,s,s,A.Z(a).ok.b,B.az,s),B.c3,B.SB,B.bw,A.ZH(B.Sx,new A.ajm(a),s)],t.p),B.a_,B.hg,B.ad),s),s),s,s),B.a8))}}
+return A.anX(s,A.H3(A.nb(A.ao2(new A.cC(B.fK,A.eo(A.c([B.E0,B.xY,A.c6("\u062a\u0645 \u0625\u0631\u0633\u0627\u0644 \u0625\u062c\u0627\u0628\u0627\u062a\u0643 \u0628\u0646\u062c\u0627\u062d",s,s,s,A.Z(a).ok.b,B.az,s),B.c3,B.SC,B.bw,A.ZH(B.Sx,new A.ajm(a),s)],t.p),B.a_,B.hg,B.ad),s),s),s,s),B.a8))}}
 A.ajm.prototype={
 $0(){return A.a54(this.a).e1()},
 $S:0}
@@ -79759,7 +79759,7 @@ s.aw()}}
 A.JW.prototype={
 L(a){var s=null,r=A.c([new A.vA(new A.tF(new A.a6B(),s,s,A.aJK(),A.aIO(),t.aZ),s,s,s,s,t.p0)],t.Ds),q=A.aqJ(B.Z,B.k,B.bR,B.aw,B.aw,B.k,B.d4),p=A.aJY().$0(),o=A.Vp().$3$color$fontSize$fontWeight(B.bR,32,B.bg),n=A.Vp().$3$color$fontSize$fontWeight(B.bR,24,B.bB)
 n=p.afy(A.Vp().$2$color$fontSize(B.bR,16),A.Vp().$2$color$fontSize(B.bA,14),o,n)
-return A.aCy(new A.xP(B.Ep,"Rebond",A.pc(s,q,new A.qG(A.an5(s,s,B.aw,s,s,s,s,s,s,B.k,s,s,B.D3,s,new A.cY(A.ic(12),B.q),s,s,s,A.Vp().$2$fontSize$fontWeight(16,B.bB),s)),B.k,n,!0),!1,s),r)}}
+return A.aCy(new A.xP(B.Ep,"Reboond",A.pc(s,q,new A.qG(A.an5(s,s,B.aw,s,s,s,s,s,s,B.k,s,s,B.D3,s,new A.cY(A.ic(12),B.q),s,s,s,A.Vp().$2$fontSize$fontWeight(16,B.bB),s)),B.k,n,!0),!1,s),r)}}
 A.a6B.prototype={
 $1(a){return $.aq_().$1$0(t.MU)},
 $S:503}
@@ -85310,8 +85310,8 @@ B.Sx=new A.eU("\u0627\u0644\u0639\u0648\u062f\u0629 \u0644\u0644\u0631\u0626\u06
 B.Sy=new A.eU("\u0627\u062e\u062a\u0628\u0627\u0631 \u0627\u0644\u062a\u0648\u0627\u0641\u0642",null,null,null,null,null,null,null,null)
 B.SA=new A.eU("\u0646\u062d\u0646 \u0646\u0639\u0645\u0644 \u0639\u0644\u0649 \u062a\u0637\u0648\u064a\u0631 \u0623\u062f\u0648\u0627\u062a \u0623\u0639\u0645\u0642 \u0644\u0645\u0633\u0627\u0639\u062f\u062a\u0643 \u0627\u0634\u062a\u0631\u0643 \u0627\u0644\u0622\u0646 \u0644\u062a\u0643\u0648\u0646 \u0623\u0648\u0644 \u0645\u0646 \u064a\u062c\u0631\u0628\u0647\u0627",null,B.eY,B.az,null,null,null,null,null)
 B.Re=new A.j(!0,B.bA,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SB=new A.eU("\u0644\u0642\u062f \u0627\u0633\u062a\u0644\u0645\u0646\u0627 \u0625\u062c\u0627\u0628\u0627\u062a\u0643\u060c \u0648\u0633\u0646\u0642\u0648\u0645 \u0628\u0645\u0631\u0627\u062c\u0639\u062a\u0647\u0627 \u0648\u0625\u0631\u0633\u0627\u0644 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u0648\u0627\u0644\u0646\u0635\u0627\u0626\u062d \u0627\u0644\u0645\u062e\u0635\u0635\u0629 \u0644\u0643 \u0639\u0628\u0631 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0642\u0631\u064a\u0628\u0627\u064b.",null,B.Re,B.az,null,null,null,null,null)
-B.SC=new A.eU("\u0627\u0628\u062f\u0623 \u0627\u0644\u0622\u0646 \u0648\u0627\u0643\u062a\u0634\u0641 \u0645\u062f\u0649 \u062a\u0648\u0627\u0641\u0642\u0643",null,null,null,null,null,null,null,null)
+B.SC=new A.eU("\u0644\u0642\u062f \u0627\u0633\u062a\u0644\u0645\u0646\u0627 \u0625\u062c\u0627\u0628\u0627\u062a\u0643\u060c \u0648\u0633\u0646\u0642\u0648\u0645 \u0628\u0645\u0631\u0627\u062c\u0639\u062a\u0647\u0627 \u0648\u0625\u0631\u0633\u0627\u0644 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u0648\u0627\u0644\u0646\u0635\u0627\u0626\u062d \u0627\u0644\u0645\u062e\u0635\u0635\u0629 \u0644\u0643 \u0639\u0628\u0631 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0642\u0631\u064a\u0628\u0627\u064b.",null,B.Re,B.az,null,null,null,null,null)
+B.SD=new A.eU("\u0627\u0628\u062f\u0623 \u0627\u0644\u0622\u0646 \u0648\u0627\u0643\u062a\u0634\u0641 \u0645\u062f\u0649 \u062a\u0648\u0627\u0641\u0642\u0643",null,null,null,null,null,null,null,null)
 B.XD=new A.aby(0,"system")
 B.Jp=new A.h(0.056,0.024)
 B.JD=new A.h(0.108,0.3085)
@@ -85650,9 +85650,9 @@ B.yo=new A.j(!0,B.bR,null,null,null,null,null,B.bg,null,null,null,null,null,null
 B.Sz=new A.eU("\u0642\u0631\u064a\u0628\u064b\u0627",null,B.yo,null,null,null,null,null,null)
 B.FI=s(["\u062a\u0642\u0627\u0631\u064a\u0631 \u062a\u062d\u0644\u064a\u0644 \u0645\u062a\u0642\u062f\u0645\u0629","\u062c\u0644\u0633\u0627\u062a \u0625\u0631\u0634\u0627\u062f","\u0628\u0631\u0627\u0645\u062c \u0644\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0639\u0644\u0627\u0642\u0629"],t.s)
 B.Wc=new A.BS(B.Sz,B.FI,null)
-B.SD=new A.eU("rebond",null,B.yo,null,null,null,null,null,null)
+B.SB=new A.eU("reboond",null,B.yo,null,null,null,null,null,null)
 B.FB=s(["\u0639\u0646 \u0627\u0644\u0645\u0646\u0635\u0629","\u062a\u0648\u0627\u0635\u0644 \u0645\u0639\u0646\u0627","\u0627\u0644\u0634\u0631\u0648\u0637 \u0648\u0627\u0644\u0623\u062d\u0643\u0627\u0645"],t.s)
-B.Wd=new A.BS(B.SD,B.FB,null)
+B.Wd=new A.BS(B.SB,B.FB,null)
 B.l8=new A.pt(0,"ready")
 B.i1=new A.pt(1,"possible")
 B.yS=new A.pt(2,"accepted")
